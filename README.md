@@ -48,7 +48,7 @@ To get started with the **async-auction-platform** project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/YusuffAhmad/async-auction-platform.git
 2. **Navigate to the project directory**:
 
    ```bash
