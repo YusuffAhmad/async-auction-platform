@@ -67,10 +67,10 @@ To get started with the **async-auction-platform** project, follow these steps:
 Once the application is running, you can access the API documentation using Swagger UI. Open your web browser and
 navigate to the respective URLs for each project:
 
-- AuctionService: `https://localhost:5001/swagger/index.html`
-- SearchService: `https://localhost:7002/swagger/index.html`
-- IdentityService: `https://localhost:5000/swagger/index.html`
+- RoomsService: `https://localhost:5001/swagger/index.html`
+- BiddingService: `https://localhost:7002/swagger/index.html`
 - GatewayService: `https://localhost:6001/swagger/index.html`
+- IdentityService: `https://localhost:5000`
 
 Here, you can explore the available endpoints and test them.
 
